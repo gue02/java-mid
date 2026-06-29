@@ -1,6 +1,5 @@
 package exception.ex3.exception;
 
-
 import java.util.Scanner;
 
 public class MainV3 {
