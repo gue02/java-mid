@@ -1,6 +1,6 @@
 package collection.list;
 
-public class MyList<E> {
+public interface MyList<E> {
     int size();
     void add(E e);
     void add(int index, E e);
